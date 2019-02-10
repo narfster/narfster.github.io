@@ -22,3 +22,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 * this
 * this2
 * this
+
+[foo](foo)
