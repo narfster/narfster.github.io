@@ -23,4 +23,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 * this2
 * this
 
-[foo](foo)
+[foo](foo.md)
