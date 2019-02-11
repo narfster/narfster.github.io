@@ -1,4 +1,4 @@
 ---
-layout:"post"
+layout: post
 ---
 # this is my first post
