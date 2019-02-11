@@ -1,8 +1,11 @@
-title: Narfster.GitHub.io
-description: 
+title: Dan's awsome title
+description: Notes about stuff
 google_analytics: 
 show_downloads: true
 theme: minima
 
 gems:
   - jekyll-mentions
+
+plugins:
+  - jekyll-feed
